@@ -11,4 +11,4 @@ client.on('message', (message) => {
   }
 });
 
-client.login('token here');
+client.login('i cant give you my key because discord said no');
